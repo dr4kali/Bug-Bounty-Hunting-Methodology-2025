@@ -1,22 +1,6 @@
 <h1 align="center">Bug Bounty Hunting Methodology 2025</h1>
 
-<div align="center">
-   
-[![Edition](https://img.shields.io/badge/Edition-2025-blue)](#)
-[![Author](https://img.shields.io/badge/Author-Amr%20Elsagaei-green)](#)
-[![YouTube](https://img.shields.io/badge/AmrSecOfficial-c00?logo=youtube&logoColor=white)](https://www.youtube.com/@AmrSecOfficial)
-[![Twitter](https://img.shields.io/badge/amrelsagaei-black?logo=X)](https://twitter.com/amrelsagaei)
-[![Telegram](https://img.shields.io/badge/AmrSecOfficial-0088CC?logo=telegram&logoColor=white)](https://t.me/AmrSecOfficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amrelsagaei-0073e3?logo=linkedin&labelColor=white)](https://www.linkedin.com/in/amrelsagaei)
 
-</div>
-
-<br>
-<div style="text-align: center;">
-    <a href="https://youtu.be/bAHNM8IInwE" target="_blank">
-        <img src="https://blog.amrelsagaei.com/storage/posts/webp/bug-bounty-metho-2025.webp" alt="Bug Bounty Methodology 2025 Edition" style="width: 100%;">
-    </a>
-</div>
 <div align="left">
 Welcome to the <strong>Bug Bounty Methodology 2025 Edition</strong>! This methodology is a basic guide to help you kickstart your bug bounty journey. It outlines the essential steps to navigate your target effectively, but the real challenge lies in identifying high-impact vulnerabilities through your own skills and creativity. This methodology will be updated regularly as new and interesting techniques emerge to enhance your testing process.
 </div>
